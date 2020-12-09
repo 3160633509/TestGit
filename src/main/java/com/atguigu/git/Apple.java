@@ -5,7 +5,5 @@ public class Apple {
 		System.out.println("apple2....");
 	}
 
-	public static void main(String[] args) {
-		System.out.println("apple1...");
-	}
+	
 }
